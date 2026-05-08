@@ -7,6 +7,23 @@
 ![](https://badge.mcpx.dev?type=server 'MCP Server')
 ![](https://badge.mcpx.dev?type=dev 'MCP Dev')
 
+---
+# Devin Basic Memory (Fork)
+
+This is my personal fork of the Basic Memory project.
+
+For implementation details, prompts, and scaffolding instructions, please see:
+[1.ClaudeCode Developer Hanoff Gude.md] (https://github.com/humandesign01/basic-memory/blob/main/1.ClaudeCode%20Developer%20Handoff%20Guide.md)
+
+That file contains:
+- Backend scaffolding requirements (Node.js + Express, Markdown storage).
+- Frontend scaffolding requirements (React UI).
+- Deployment checklist (local setup).
+
+
+
+
+
 ## 🚀 Basic Memory Cloud is Live!
 
 - **Cross-device and multi-platform support is here.** Your knowledge graph now works on desktop, web, and mobile.
