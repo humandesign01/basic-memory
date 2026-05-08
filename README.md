@@ -13,14 +13,14 @@
 This is my personal fork of the Basic Memory project.
 
 For implementation details, prompts, and scaffolding instructions, please see:
-[1.ClaudeCode Developer Hanoff Gude.md] (https://github.com/humandesign01/basic-memory/blob/main/1.ClaudeCode%20Developer%20Handoff%20Guide.md)
+[1.ClaudeCode Developer Handoff Guide.md] (https://github.com/humandesign01/basic-memory/blob/main/1.ClaudeCode%20Developer%20Handoff%20Guide.md)
 
 That file contains:
 - Backend scaffolding requirements (Node.js + Express, Markdown storage).
 - Frontend scaffolding requirements (React UI).
 - Deployment checklist (local setup).
 
-
+---
 
 
 
